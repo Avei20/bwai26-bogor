@@ -7,3 +7,4 @@ Read the documentation about google adk dev-ui.
 The command to run adk must be using `uv run main.py`
 Use uv as python package manager.
 Write the plan on Serena Memory.
+Dont execute the plan
