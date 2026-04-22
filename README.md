@@ -10,3 +10,10 @@
 
 1. Context7 
 2. Serena
+
+
+## Index Serena Project 
+
+``` 
+ uvx --from git+https://github.com/oraios/serena serena project create       
+ ```
