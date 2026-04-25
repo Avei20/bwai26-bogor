@@ -17,3 +17,9 @@
 ``` 
  uvx --from git+https://github.com/oraios/serena serena project create       
  ```
+
+## Slide Link 
+
+```
+https://docs.google.com/presentation/d/1jjR2r_ZqX4YutGQfnKsIqSTBJ9LSJYm8XQaDGDQe5As/edit?usp=sharing
+```
